@@ -1,0 +1,5 @@
+{
+	"files.eol": "\r\n",
+	"editor.unfoldOnClickAfterEndOfLine": true,
+	"prettier.endOfLine": "crlf"
+}
